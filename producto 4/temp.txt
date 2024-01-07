@@ -1,0 +1,72 @@
+
+Configuraci¢n IP de Windows
+
+   Nombre de host. . . . . . . . . : DESKTOP-BEB5K77
+   Sufijo DNS principal  . . . . . : 
+   Tipo de nodo. . . . . . . . . . : h¡brido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Realtek Gaming GbE Family Controller
+   Direcci¢n f¡sica. . . . . . . . . . . . . : B0-22-7A-E9-FB-31
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 0A-00-27-00-00-0A
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::f172:37f4:7459:24a6%10(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 688521255
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2C-E8-19-42-B0-22-7A-E9-FB-31
+   Servidores DNS. . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : D6-1B-81-12-A0-B3
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Direcci¢n f¡sica. . . . . . . . . . . . . : F6-1B-81-12-A0-B3
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Realtek RTL8852AE WiFi 6 802.11ax PCIe Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : D4-1B-81-12-A0-B3
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::7983:35f9:2527:7754%9(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.8.106(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Concesi¢n obtenida. . . . . . . . . . . . : viernes, 22 de diciembre de 2023 16:48:32
+   La concesi¢n expira . . . . . . . . . . . : s bado, 23 de diciembre de 2023 21:08:10
+   Puerta de enlace predeterminada . . . . . : 192.168.8.1
+   Servidor DHCP . . . . . . . . . . . . . . : 192.168.8.1
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 131341185
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2C-E8-19-42-B0-22-7A-E9-FB-31
+   Servidores DNS. . . . . . . . . . . . . . : 192.168.8.1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
